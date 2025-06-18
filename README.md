@@ -98,3 +98,14 @@ Conforme o projeto está, não há nenhuma necessidade de configurar; apenas ver
 - https://fast-endpoints.com/
 - https://dev.to/djnitehawk/building-rest-apis-in-net-6-the-easy-way-3h0d
 - https://deviq.com/design-patterns/repr-design-pattern
+
+## Contato
+
+Entre em contato para colaborações, dúvidas ou consultorias:
+
+* **Pessoal**: [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
+* **Empresarial**: [devsfree@devsfree.com.br](mailto:devsfree@devsfree.com.br)
+* **Consultoria**: [contato@dopme.io](mailto:contato@dopme.io)
+* **LinkedIn**: [Danilo O. Pinheiro](https://www.linkedin.com/in/daniloopinheiro/)
+
+> Desenvolvido por **Danilo O. Pinheiro** • [DevsFree](https://devsfree.com.br) • [dopme.io](https://dopme.io)
